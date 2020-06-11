@@ -1,0 +1,145 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.clearfix::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+body{
+  color: #33475b;
+  max-width: 1800px;
+  margin-left: 10%;
+}
+
+.container {
+  max-width: 1800px;
+  margin: 0 auto;
+  height: 100%;
+
+}
+
+.grey{
+  height: 70px;
+  background-color: #f5f8fa;
+  border-bottom: 1px solid #cbd6e2;
+
+}
+
+div i{
+  font-size: 130%;
+  margin: 21px;
+}
+
+.english{
+  font-size: 80%;
+  display: inline-block;
+  margin-left: -18px;
+  padding: 0 1rem;
+  border-right: 2px solid #cbd6e2;
+}
+
+.contactus{
+  font-size: 80%;
+  display: inline-block;
+  margin-left: -10px;
+  padding: 0 1rem;
+}
+
+section{
+  margin-left: 30px;
+}
+
+#login{
+margin-left:40%;
+font-size: 0.75rem;
+font-weight: 500;
+padding: 0.563rem 1rem;
+border: solid 1px #ff7a59;
+border-radius: 3px;
+background-color: white;
+}
+
+#gethubspot{
+font-size: 0.75rem;
+font-weight: 500;
+padding: 0.563rem 1rem;
+border: solid 1px #ff7a59;
+border-radius: 3px;
+background-color: #ff7a59;
+color: white;
+margin: 5px;
+}
+
+.lightgrey{
+  height: 70px;
+  position: relative;
+  background-color: #fff;
+  z-index: 90;
+  border-bottom: 0.1px solid #cbd6e2;
+}
+
+nav{
+  display: inline-block;
+}
+
+.logo{
+margin-top: 15px;
+}
+
+.spazio{
+  margin-left: 370px;
+  font: inherit;
+
+}
+
+ul li{
+  display:inline-block;
+  padding:6px;
+}
+
+.orange{
+  height: 400px;
+  background-color: rgb(255, 242, 237);
+  border-bottom: 1.5px solid darkblue;
+}
+
+.text{
+  width: 40%;
+  padding-top:50px;
+}
+
+h1{
+  text-align: left;
+  font-size: 2.6rem;
+  line-height: 1.1818;
+}
+
+.subtitle{
+  margin-top: 30px;
+  font-size: 90%;
+  font-family:serif;
+}
+
+#free{
+  background-color: #ff8f73;
+  font-size: 1rem;
+  padding: 1.3rem 2.0rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1.25;
+  border: 0;
+  border-radius: .18rem;
+  color: white;
+  margin-top: 20px;
+}
+
+.text-end{
+  margin-top: 20px;
+  font-size:70%;
+}
