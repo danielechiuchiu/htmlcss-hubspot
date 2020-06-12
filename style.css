@@ -12,6 +12,7 @@
 
 body{
   color: #33475b;
+  font-family: inherit;
 }
 
 .container {
@@ -178,7 +179,7 @@ line-height: 1.3125;
 
 .box1{
   margin-top: 50px;
-  height: 30%;
+  height: 23%;
   backface-visibility: hidden;
     cursor: pointer;
     background: #fff;
@@ -256,7 +257,6 @@ line-height: 1.3125;
 
 .section2 li{
   font-size: 13px;
-  margin-bottom: 5px;
 }
 
 ul i{
@@ -266,6 +266,151 @@ ul i{
 .card{
   width: 33.33%;
   height: 40%;
-  border: solid 1px black;
+  padding: 4em;
+  box-shadow: 0 0 11px #eaf0f6;
   float: left;
+  background-color: white;
+  border-radius: 4px;
+}
+
+.card{
+
+}
+
+.fotocard{
+  width: 100%;
+  height: 150px;
+}
+
+.cardtext{
+  text-align: center;
+  font-size: 1.375rem;
+  font-weight: 600;
+  line-height: 1.3636;
+  display: block;
+  margin-top: 7%;
+}
+
+.cardp{
+  margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 14px;
+
+}
+
+.cardHr{
+  width: 100%;
+  text-align: center;
+  color: lightgrey;
+}
+
+.features{
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 15px;
+  margin-top: 2em;
+  font-size: 13px;
+  text-align: center;
+}
+.x{
+  font-size: 80%;
+  margin-top: -20px;
+}
+
+.blue{
+  height: 1000px;
+  background-image:linear-gradient(45deg, #00a4bd, #00bda5);
+}
+
+.titolo2h{
+  color: white;
+  text-align: center;
+  max-width: 650px;
+  padding-top: 40px;
+  margin: 0 auto;
+}
+
+.parte2 {
+  color:white;
+  text-align: center;
+  max-width: 650px;
+  margin: 0 auto;
+}
+
+
+
+.quadrato1{
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  float: left;
+  width: 25%;
+  height:150px;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.quadrato2{
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  float: left;
+  width: 25%;
+  height:150px;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.quadrato3{
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  float: left;
+  width: 25%;
+  height:150px;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.quadrato4{
+  border-bottom: 1px solid white;
+  float: left;
+  width: 25%;
+  height:150px;
+  text-align: center;
+  margin-top: 5%;
+
+}
+
+.quadrato5{
+  border-right: 1px solid white;
+  width: 25%;
+  height:150px;
+  float: left;
+  text-align: center;
+}
+
+.quadrato6{
+  border-right: 1px solid white;
+  width: 25%;
+  height:150px;
+  float: left;
+  text-align: center;
+}
+
+.quadrato7{
+  border-right: 1px solid white;
+  width: 25%;
+  height:150px;
+  float: left;
+  text-align: center;
+}
+
+.quadrato8{
+  width: 25%;
+  height:150px;
+  float: left;
+  text-align: center;
+}
+
+.immagini{
+  margin-top: 10%;
+  color: white;
 }
