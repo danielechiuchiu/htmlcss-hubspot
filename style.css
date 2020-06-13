@@ -97,7 +97,7 @@ margin-top: 15px;
 }
 
 .spazio{
-  margin-left: 310px;
+  margin-left: 350px;
   font: inherit;
 }
 
@@ -318,7 +318,7 @@ ul i{
 }
 
 .blue{
-  height: 1000px;
+  height: 600px;
   background-image:linear-gradient(45deg, #00a4bd, #00bda5);
 }
 
@@ -414,3 +414,158 @@ ul i{
   margin-top: 10%;
   color: white;
 }
+
+.bianco2{
+  height: 1300px;
+}
+
+.boxleft{
+  width: 30%;
+  height: 180px;
+  margin-top: 15%;
+  float: left;
+}
+
+.ciao{
+  margin: 10 0 5px;
+    font-size: 2.0em
+}
+
+.bau{
+  margin-top:10%;
+  letter-spacing: 0.02em;
+  font-size: 1.2em;
+}
+
+.grid{
+  width: 70%;
+  height:180px;
+  float: left;
+  margin-top: 15%;
+}
+.cella{
+width: 25%;
+height: 50%;
+float: left;
+}
+
+.logos{
+  width: 70%;
+  height: 40%;
+  float:left;
+  vertical-align: middle;
+  margin: 17%;
+}
+
+.container0{
+  height: 400px;
+  width: 70%;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.container10{
+  height: 450px;
+  width: 70%;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.sectionleft{
+  width: 50%;
+  height: 300px;
+  float: left;
+}
+
+.titolo10{
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3125;
+}
+
+.gethubspot{
+  font-size: 1rem;
+  padding: 1.625rem 3rem;
+  font-weight: 600;
+  background-color: #ff7a59;
+  cursor: pointer;
+    display: inline-block;
+    line-height: 1.25;
+    border: 0;
+    border-radius: .1875rem;
+    text-align: left;
+    color: white;
+}
+.fotofinale{
+  width: 50%;
+  height: 300px;
+  float: left;
+}
+
+#fotofin{
+  max-width: 100%;
+  max-height: 120%;
+  margin-left: 35%;
+}
+
+.darkblue{
+  background-color: #33475b;
+  color: #fff;
+  height: 450px;
+}
+
+.container20{
+  height: 300px;
+  width: 70%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.finale{
+  margin-top:30px;
+  height: 100%;
+  width: 25%;
+  float: left;
+  text-align: left;
+}
+
+.u{
+  padding: 0.5rem 0;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+#contacthubspot{
+  font-size: 0.75rem;
+    font-weight: 500;
+    padding: 0.563rem 0.6rem;
+    background-color: #fff;
+    color: #33475b;
+    line-height: 1.25;
+    border: 0;
+    border-radius: .1875rem;
+}
+
+.container30{
+  height: 130px;
+  width: 70%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.lingue{
+  font-weight: 500;
+  text-align: center;
+  padding: 0.5rem 1rem;
+}
+
+.footerp{
+  font-size: 0.75rem;
+  margin-top: -2%
+}
+
+.footerul{
+ text-align: right;
+  }
